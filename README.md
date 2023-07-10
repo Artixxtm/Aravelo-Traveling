@@ -1,4 +1,4 @@
-# Aravelo Traveling <img src="https://steamuserimages-a.akamaihd.net/ugc/1760325019158936080/3FEA472F51E0008754A0EEEB14AB8B3B5BC29ECB/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="" width="50">
+# Aravelo Traveling <img src="https://steamuserimages-a.akamaihd.net/ugc/1760325019158936080/3FEA472F51E0008754A0EEEB14AB8B3B5BC29ECB/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="" width="40">
 <img src="./aravelo_full.png" alt="">
 
 Aravelo  -  responsive company website with very beautiful paralax effect and modern UI. [Website](https://aravelotraveling.netlify.app)
